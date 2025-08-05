@@ -8,3 +8,5 @@
 3. Create your Slurm job script:
 ```bash
 nano job.sh
+4. Submit it using:
+sbatch job.sh
