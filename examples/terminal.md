@@ -15,3 +15,8 @@
 echo "Running my job"
 sleep 30
 echo "Job completed"
+
+2. Submit the job with:
+
+sbatch job.sh
+
